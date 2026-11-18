@@ -15,3 +15,14 @@ Hello there! I'm someone who loves keeping balance between staying active and en
 ### Area of Interest:
 - Healthcare & Medical Sciences
 - Medical Laboratory Diagnostics
+
+---
+
+## Programming Languages
+- Java
+
+## ⚡ Fun Fact About Me:
+- I'm interested in medfield
+- i always ordered horchata
+
+## 📞 Click Below to Connect with Me!
